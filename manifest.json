@@ -15,11 +15,13 @@
     "https://graph.facebook.com/*",
     "https://api.imgur.com/*",
     "https://concursos-contabeis.vercel.app/*",
+    "https://www.concursoscontabeis.com.br/*",
     "http://localhost:3000/*"
   ],
   "externally_connectable": {
     "matches": [
       "https://concursos-contabeis.vercel.app/*",
+      "https://www.concursoscontabeis.com.br/*",
       "http://localhost:3000/*"
     ]
   },
